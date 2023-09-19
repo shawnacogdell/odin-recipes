@@ -1,0 +1,54 @@
+* {
+     background-color: #6d435a;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#header {
+     background-color: #352D39;
+     color: #ff6978;
+     font-size: 32px;
+     text-align: center;
+     font-weight: bold;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+     color: #fffcf9;
+     font-size: 24px;
+     text-align: center;
+     font-weight: bold;
+}
+
+.recipe {
+     color: #e7e3e0;
+     font-size: 18px;
+     padding: 2em;
+}
+
+
+a:link {
+     color: #ff6978;
+}
+
+a:hover {
+     color: #FFFCF9;
+}
+
+a:visited {
+     color: #B1EDE8;
+}
+
+a:active {
+     color: #352D39;
+}
+
+img {
+     display: block;
+     margin: auto;
+     max-width: 25%;
+     height: auto;
+}
+
+footer {
+     width: 100%;
+     text-align: center;
+}
