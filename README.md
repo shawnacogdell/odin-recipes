@@ -1,0 +1,1 @@
+This is a website practice page created using the Odin Project lessons.
